@@ -3,8 +3,8 @@ import socket
 import threading
 
 
-# this is a pretty hex dumping function directly taken from
-# http://code.activestate.com/recipes/142812-hex-dumper/
+# hex dumping function directly 
+
 
 def hexdump(src, length=16):
     result = []
